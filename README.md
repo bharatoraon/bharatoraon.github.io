@@ -1,4 +1,4 @@
-- #Portfolio Page for Bharat Oraon
+#Portfolio Page for Bharat Oraon
 - 🛸 Urban Planning 
 - 🌱 Web Development
 - 💞️ Android Development
